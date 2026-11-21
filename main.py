@@ -7,7 +7,7 @@ graded output is byte-identical on every run.
 import os
 import sys
 
-JOKE = "I asked the agent to fix the bug. It fixed the bug, broke two features, and left a comment saying 'you're welcome.'"
+JOKE = "The agent called a library function that doesn't exist — confidently, in three files. It exists now. I wrote it."
 
 
 def main():
